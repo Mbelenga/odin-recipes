@@ -1,3 +1,3 @@
 This is a basic recipe website
-Technologuies i will use HTML CSS and JAVASCRIPT
+Technologies i am using HTML CSS and JAVASCRIPT
 will continue updating
